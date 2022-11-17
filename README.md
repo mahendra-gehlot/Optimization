@@ -6,3 +6,6 @@ The following techniques are implemented from scratch.
   2. Cholesky decomposition
   3. Steepest Descent
   4. Newton Method
+  5. Congujate Gradient 
+  6. Revisied Simplex
+  7. Quadratic programming
